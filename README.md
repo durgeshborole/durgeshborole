@@ -1,406 +1,143 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  DURGESH BOROLE — GITHUB PROFILE README         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600&display=swap');
+<div align="center">
 
-  * { box-sizing: border-box; margin: 0; padding: 0; }
+```
+██████╗ ██╗   ██╗██████╗  ██████╗ ███████╗███████╗██╗  ██╗
+██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║
+██║  ██║██║   ██║██████╔╝██║  ███╗█████╗  ███████╗███████║
+██║  ██║██║   ██║██╔══██╗██║   ██║██╔══╝  ╚════██║██╔══██║
+██████╔╝╚██████╔╝██║  ██║╚██████╔╝███████╗███████║██║  ██║
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-  .profile-root {
-    font-family: 'Manrope', sans-serif;
-    background: #0d0d0d;
-    color: #e8e4dc;
-    min-height: 100vh;
-    padding: 0 0 60px;
-  }
+### 🛠️ Full-Stack Developer · System Builder · Problem Solver
 
-  .hero {
-    padding: 52px 40px 40px;
-    border-bottom: 1px solid #222;
-    position: relative;
-    overflow: hidden;
-  }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-durgeshborole-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgeshborole)
 
-  .hero-grid {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 24px;
-    align-items: start;
-    max-width: 860px;
-  }
+</div>
 
-  .badge-row {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-  }
+---
 
-  .badge {
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    padding: 4px 10px;
-    border-radius: 3px;
-    letter-spacing: 0.04em;
-  }
+## 👨‍💻 About Me
 
-  .badge-green { background: #1a3320; color: #4ade80; border: 1px solid #25472e; }
-  .badge-amber { background: #2e1f08; color: #f59e0b; border: 1px solid #3d2a0a; }
-  .badge-blue  { background: #0e1f32; color: #60a5fa; border: 1px solid #162b42; }
+> *"I don't just write code — I build systems that solve real problems."*
 
-  h1.name {
-    font-family: 'Syne', sans-serif;
-    font-size: clamp(38px, 6vw, 64px);
-    font-weight: 800;
-    line-height: 1.0;
-    letter-spacing: -0.02em;
-    color: #f0ece4;
-    margin-bottom: 14px;
-  }
+I'm a developer who loves building structured, end-to-end applications — from library management platforms to enterprise systems and construction showcases. I focus on clean logic, intuitive UI, and systems that actually work in the real world.
 
-  h1.name span { color: #f59e0b; }
+- 🔭 Currently working on **full-stack web projects**
+- 🌱 Exploring **DevOps practices** and deployment pipelines
+- 💡 Passionate about **system design** and **clean architecture**
+- 📫 Reach me at: **[your.email@example.com](mailto:YOUR_EMAIL_HERE)**
+- 💼 Connect on **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HERE)**
 
-  .tagline {
-    font-size: 15px;
-    color: #888;
-    line-height: 1.6;
-    max-width: 500px;
-    margin-bottom: 28px;
-  }
+---
 
-  .stat-row {
-    display: flex;
-    gap: 28px;
-    flex-wrap: wrap;
-  }
+## 🚀 Featured Projects
 
-  .stat { text-align: left; }
-  .stat-num {
-    font-family: 'Syne', sans-serif;
-    font-size: 26px;
-    font-weight: 700;
-    color: #f0ece4;
-  }
-  .stat-label {
-    font-size: 11px;
-    color: #555;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    margin-top: 2px;
-  }
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Library Management System</h3>
+      <p>A complete library management solution with book cataloguing, member registration, borrow/return tracking, and fine calculation. Built to handle real-world library workflows end-to-end.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/durgeshborole/Library_system">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Management System</h3>
+      <p>Enterprise-grade management system for handling operations, records, and workflows. Demonstrates strong backend logic, data handling, and system design thinking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full--Stack-333333?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CRUD-00897B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/durgeshborole/managementsystem">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏗️ Construction Site Showcase</h3>
+      <p>A professionally designed construction company showcase website — fully responsive, featuring service sections, project portfolio displays, and contact flows. Built for real-world client presentation with polished UI design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Responsive_Design-38BDF8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/UI_Design-FF6B6B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/durgeshborole">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  .avatar-block {
-    width: 88px;
-    height: 88px;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #f59e0b, #ef4444);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Syne', sans-serif;
-    font-size: 28px;
-    font-weight: 800;
-    color: #0d0d0d;
-    flex-shrink: 0;
-    margin-top: 8px;
-  }
+---
 
-  .section {
-    padding: 44px 40px 0;
-    max-width: 900px;
-  }
+## 🧰 Tech Stack
 
-  .section-label {
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    color: #555;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .section-label::after {
-    content: '';
-    flex: 1;
-    height: 1px;
-    background: #222;
-    max-width: 200px;
-  }
+<div align="center">
 
-  .featured-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 14px;
-  }
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-  .proj-card {
-    background: #141414;
-    border: 1px solid #222;
-    border-radius: 8px;
-    padding: 22px 22px 18px;
-    cursor: pointer;
-    transition: border-color 0.2s, transform 0.15s;
-    position: relative;
-    overflow: hidden;
-  }
-  .proj-card:hover { border-color: #444; transform: translateY(-2px); }
-  .proj-card.featured { grid-column: span 2; }
+</div>
 
-  .proj-accent {
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 3px;
-  }
+---
 
-  .accent-amber { background: #f59e0b; }
-  .accent-blue  { background: #3b82f6; }
-  .accent-green { background: #22c55e; }
+## 📊 GitHub Stats
 
-  .proj-icon {
-    font-size: 22px;
-    margin-bottom: 12px;
-    display: block;
-  }
+<div align="center">
 
-  .proj-title {
-    font-family: 'Syne', sans-serif;
-    font-size: 16px;
-    font-weight: 700;
-    color: #f0ece4;
-    margin-bottom: 6px;
-  }
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=durgeshborole&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9"/>
 
-  .proj-desc {
-    font-size: 13px;
-    color: #666;
-    line-height: 1.6;
-    margin-bottom: 16px;
-  }
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshborole&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9"/>
 
-  .proj-tags {
-    display: flex;
-    gap: 6px;
-    flex-wrap: wrap;
-  }
+</div>
 
-  .proj-tag {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    padding: 3px 8px;
-    border-radius: 3px;
-    background: #1c1c1c;
-    color: #888;
-    border: 1px solid #282828;
-  }
+<div align="center">
 
-  .proj-link {
-    position: absolute;
-    top: 18px; right: 18px;
-    font-size: 16px;
-    color: #444;
-  }
+[![GitHub Streak](https://streak-stats.demolab.com?user=durgeshborole&theme=github-dark-blue&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B)](https://github.com/durgeshborole)
 
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-    gap: 10px;
-  }
+</div>
 
-  .skill-item {
-    background: #141414;
-    border: 1px solid #1e1e1e;
-    border-radius: 6px;
-    padding: 14px 16px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .skill-dot {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-  .skill-name {
-    font-size: 13px;
-    color: #aaa;
-    font-weight: 500;
-  }
+---
 
-  .other-repos {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 10px;
-  }
+## 📁 More Projects
 
-  .mini-repo {
-    background: #141414;
-    border: 1px solid #1e1e1e;
-    border-radius: 6px;
-    padding: 14px 16px;
-    cursor: pointer;
-    transition: border-color 0.18s;
-  }
-  .mini-repo:hover { border-color: #333; }
+| Repo | Description |
+|------|-------------|
+| [📋 StackIt Q&A Forum](https://github.com/durgeshborole/StackIt-A-Minimal-Q-A-Forum-Platform) | Minimal question & answer forum platform |
+| [📚 Library System v2](https://github.com/durgeshborole/Library_system_New) | Improved iteration of the library management system |
+| [🔧 DevOps Practical](https://github.com/durgeshborole/Devops_practical) | DevOps tools, configs, and hands-on practice |
+| [🎂 Birthday](https://github.com/durgeshborole/Birthday) | Creative HTML project |
 
-  .mini-repo-name {
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    color: #60a5fa;
-    margin-bottom: 4px;
-  }
-  .mini-repo-desc {
-    font-size: 12px;
-    color: #555;
-  }
+---
 
-  .footer-strip {
-    margin: 48px 40px 0;
-    padding-top: 24px;
-    border-top: 1px solid #1a1a1a;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
-  }
+<div align="center">
 
-  .footer-handle {
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    color: #444;
-  }
+**Let's build something great together.**
 
-  .footer-link {
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    color: #f59e0b;
-    text-decoration: none;
-    padding: 6px 14px;
-    border: 1px solid #3d2a0a;
-    border-radius: 4px;
-    background: #2e1f08;
-    cursor: pointer;
-  }
-  .footer-link:hover { background: #3d2a0a; }
-</style>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
-<div class="profile-root">
-
-  <div class="hero">
-    <div class="hero-grid">
-      <div>
-        <div class="badge-row">
-          <span class="badge badge-green">● Open to Work</span>
-          <span class="badge badge-amber">Full-Stack Dev</span>
-          <span class="badge badge-blue">11 Repositories</span>
-        </div>
-        <h1 class="name">Durgesh<br><span>Borole</span></h1>
-        <p class="tagline">Building real-world systems — from library management to enterprise solutions and construction platforms. Turning ideas into structured, working software.</p>
-        <div class="stat-row">
-          <div class="stat">
-            <div class="stat-num">11</div>
-            <div class="stat-label">Repositories</div>
-          </div>
-          <div class="stat">
-            <div class="stat-num">3</div>
-            <div class="stat-label">Featured Projects</div>
-          </div>
-          <div class="stat">
-            <div class="stat-num">HTML</div>
-            <div class="stat-label">Primary Stack</div>
-          </div>
-        </div>
-      </div>
-      <div class="avatar-block">DB</div>
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">Featured Projects</div>
-    <div class="featured-grid">
-
-      <div class="proj-card featured" onclick="openLink('https://github.com/durgeshborole/Library_system')">
-        <div class="proj-accent accent-amber"></div>
-        <span class="proj-link">↗</span>
-        <span class="proj-icon">📚</span>
-        <div class="proj-title">Library Management System</div>
-        <div class="proj-desc">A complete library management solution with book cataloguing, member registration, borrow/return tracking, and fine calculation. Built to handle real-world library workflows end-to-end with a clean, intuitive interface.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">HTML</span>
-          <span class="proj-tag">CSS</span>
-          <span class="proj-tag">JavaScript</span>
-          <span class="proj-tag">CRUD</span>
-          <span class="proj-tag">Records Management</span>
-        </div>
-      </div>
-
-      <div class="proj-card" onclick="openLink('https://github.com/durgeshborole/managementsystem')">
-        <div class="proj-accent accent-blue"></div>
-        <span class="proj-link">↗</span>
-        <span class="proj-icon">⚙️</span>
-        <div class="proj-title">Management System</div>
-        <div class="proj-desc">Enterprise-grade management system for handling operations, data records, and workflows — demonstrating strong backend logic and system design thinking.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">Full-Stack</span>
-          <span class="proj-tag">Database</span>
-          <span class="proj-tag">CRUD</span>
-        </div>
-      </div>
-
-      <div class="proj-card" onclick="openLink('https://github.com/durgeshborole')">
-        <div class="proj-accent accent-green"></div>
-        <span class="proj-link">↗</span>
-        <span class="proj-icon">🏗️</span>
-        <div class="proj-title">Construction Site Showcase</div>
-        <div class="proj-desc">A visually rich construction company showcase website — responsive design, service sections, project portfolio, and contact flows built for real-world presentation.</div>
-        <div class="proj-tags">
-          <span class="proj-tag">HTML</span>
-          <span class="proj-tag">CSS</span>
-          <span class="proj-tag">Responsive</span>
-          <span class="proj-tag">UI Design</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <div class="section" style="margin-top: 12px;">
-    <div class="section-label">Tech Stack</div>
-    <div class="skills-grid">
-      <div class="skill-item"><div class="skill-dot" style="background:#f59e0b;"></div><span class="skill-name">HTML5</span></div>
-      <div class="skill-item"><div class="skill-dot" style="background:#3b82f6;"></div><span class="skill-name">CSS3</span></div>
-      <div class="skill-item"><div class="skill-dot" style="background:#22c55e;"></div><span class="skill-name">JavaScript</span></div>
-      <div class="skill-item"><div class="skill-dot" style="background:#a78bfa;"></div><span class="skill-name">DevOps</span></div>
-      <div class="skill-item"><div class="skill-dot" style="background:#fb923c;"></div><span class="skill-name">Database</span></div>
-      <div class="skill-item"><div class="skill-dot" style="background:#f472b6;"></div><span class="skill-name">UI Design</span></div>
-    </div>
-  </div>
-
-  <div class="section" style="margin-top: 36px;">
-    <div class="section-label">Other Repositories</div>
-    <div class="other-repos">
-      <div class="mini-repo" onclick="openLink('https://github.com/durgeshborole/StackIt-A-Minimal-Q-A-Forum-Platform')">
-        <div class="mini-repo-name">StackIt Q&A Forum</div>
-        <div class="mini-repo-desc">Minimal Q&A forum platform</div>
-      </div>
-      <div class="mini-repo" onclick="openLink('https://github.com/durgeshborole/Library_system_New')">
-        <div class="mini-repo-name">Library System v2</div>
-        <div class="mini-repo-desc">Improved iteration of library system</div>
-      </div>
-      <div class="mini-repo" onclick="openLink('https://github.com/durgeshborole/Devops_practical')">
-        <div class="mini-repo-name">DevOps Practical</div>
-        <div class="mini-repo-desc">DevOps tools & configurations</div>
-      </div>
-      <div class="mini-repo" onclick="openLink('https://github.com/durgeshborole/Birthday')">
-        <div class="mini-repo-name">Birthday</div>
-        <div class="mini-repo-desc">Creative HTML project</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="footer-strip">
-    <span class="footer-handle">github.com/durgeshborole</span>
-    <a class="footer-link" onclick="openLink('https://github.com/durgeshborole')">View Full Profile ↗</a>
-  </div>
+![Visitor Count](https://komarev.com/ghpvc/?username=durgeshborole&color=f59e0b&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
