@@ -120,16 +120,6 @@ I'm a developer who loves building structured, end-to-end applications — from 
 
 ---
 
-## 📁 More Projects
-
-| Repo | Description |
-|------|-------------|
-| [📋 StackIt Q&A Forum](https://github.com/durgeshborole/StackIt-A-Minimal-Q-A-Forum-Platform) | Minimal question & answer forum platform |
-| [📚 Library System v2](https://github.com/durgeshborole/Library_system_New) | Improved iteration of the library management system |
-| [🔧 DevOps Practical](https://github.com/durgeshborole/Devops_practical) | DevOps tools, configs, and hands-on practice |
-| [🎂 Birthday](https://github.com/durgeshborole/Birthday) | Creative HTML project |
-
----
 
 <div align="center">
 
