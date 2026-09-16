@@ -32,7 +32,7 @@ I'm a developer who loves building structured, end-to-end applications — from 
 - 🔭 Currently working on **full-stack web projects**
 - 🌱 Exploring **DevOps practices** and deployment pipelines
 - 💡 Passionate about **system design** and **clean architecture**
-- 📫 Reach me at: durgeshborole@gmail.com(mailto:durgeshborole@gmail.com)**
+- 📫 Reach me at: durgeshborole@gmail.com
 - 💼 Connect on **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HERE)**
 
 ---
