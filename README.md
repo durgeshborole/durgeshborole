@@ -15,8 +15,8 @@
 
 ### 🛠️ Full-Stack Developer · System Builder · Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/durgesh-borole-95a4a442b)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/durgesh-borole-95a4a442b)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgeshborole@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-durgeshborole-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durgeshborole)
 
 </div>
@@ -33,7 +33,7 @@ I'm a developer who loves building structured, end-to-end applications — from 
 - 🌱 Exploring **DevOps practices** and deployment pipelines
 - 💡 Passionate about **system design** and **clean architecture**
 - 📫 Reach me at: durgeshborole@gmail.com
-- 💼 Connect on **[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HERE)**
+- 💼 Connect on **[LinkedIn](www.linkedin.com/in/durgesh-borole-95a4a442b)**
 
 ---
 
